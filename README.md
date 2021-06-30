@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # VUE--Sports Mini Page
 基于vue实现的前端约球小网页
 =======
@@ -21,4 +21,4 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
->>>>>>> master
+
